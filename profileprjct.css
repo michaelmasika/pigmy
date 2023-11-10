@@ -1,0 +1,45 @@
+.aa{
+   text-align: center;
+   text-emphasis-style: algerian;
+   font-family: algerian; 
+}
+
+.H{
+    border: 2PX;
+    border-radius: 10px;
+    background-color:rgb(196, 187, 187);
+    padding: 2%;
+}
+.last{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 5%;
+    
+}
+.bb{
+    border: 2px;
+    padding: 30px;
+    border-radius: 10px;
+    background-color: rgb(196, 187, 187);
+}
+.cc{
+    border: 2px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgb(196, 187, 187);
+}
+.dd{
+    border: 2px;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: rgb(196, 187, 187);
+
+}
+body{
+    border: 2px solid rgb(103, 103, 212);
+    border-radius: 15px;
+    
+}
+#gh{
+    
+}
